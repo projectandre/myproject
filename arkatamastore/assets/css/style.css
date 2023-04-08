@@ -1,0 +1,15 @@
+#lihatSemua:hover {
+    color: #ff7c01;
+}
+
+#lihatSemua {
+    color: #434242;
+}
+
+.iconBg:hover {
+    color: #ffb400;
+}
+
+.carousel-item .carousel-container .container #judulHero {
+    color: #ffb400;
+}

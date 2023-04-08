@@ -1,0 +1,7 @@
+admin/staff penjualan
+- email : budi@gmail.com
+- password : 123
+
+manager : 
+- email : andre@gmail.com
+- password : 123
