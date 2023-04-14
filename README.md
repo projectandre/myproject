@@ -1,6 +1,6 @@
 # My Project History
 
-Andre Agung , andreagung777@gmail.com
+Andre Agung , andreagung777@gmail.com, https://id.linkedin.com/in/andreagungg
 
 - Online Store with API RajaOngkir : arkatamastore
 
