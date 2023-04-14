@@ -8,7 +8,7 @@ Arkatama Store merupakan aplikasi web jual beli produk antara customer dan penju
 
 - Webgis : SAMSAT
 
-SAMSAT Web merupakan aplikasi web sistem informasi geografis yang menyimpan dan menampilkan pemetaan data lokasi SAMSAT provinsi lampung. Aplikasi ini merupakan hasil Kerja Praktik di PT Jasa Raharja Cabang Lampung dan dibuat sesuai kebutuhan instansi. webgis ini dibuat menggunakan library java script yaitu leaflet-easyprint, dengan framework yaitu CodeIgniter 3 dan Bootstrap 4
+SAMSAT merupakan aplikasi web sistem informasi geografis yang menyimpan dan menampilkan pemetaan data lokasi SAMSAT provinsi lampung. Aplikasi ini merupakan hasil Kerja Praktik di PT Jasa Raharja Cabang Lampung dan dibuat sesuai kebutuhan instansi. webgis ini dibuat menggunakan library java script yaitu leaflet-easyprint, dengan framework yaitu CodeIgniter 3 dan Bootstrap 4
 
 - Web API : omdb_api
 
