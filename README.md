@@ -4,8 +4,16 @@ Andre Agung , andreagung777@gmail.com
 
 - Online Store with API RajaOngkir : arkatamastore
 
-app ini
+Arkatama Store merupakan aplikasi web jual beli produk antara customer dan penjual. aplikasi ini dibuat berdasarkan hasil tugas akhir selama melaksanakan kegiatan studi independen di arkatama, aplikasi ini terdiri dari 3 aktor yaitu customer, admin, dan manager. Framework yang digunakan yaitu Codeigniter 3 dan Bootstrap 5
 
 - Webgis : SAMSAT
+
+SAMSAT Web merupakan aplikasi web sistem informasi geografis yang menyimpan dan menampilkan pemetaan data lokasi SAMSAT provinsi lampung. Aplikasi ini merupakan hasil Kerja Praktik di PT Jasa Raharja Cabang Lampung dan dibuat sesuai kebutuhan instansi. webgis ini dibuat menggunakan library java script yaitu leaflet-easyprint, dengan framework yaitu CodeIgniter 3 dan Bootstrap 4
+
 - Web API : omdb_api
+
+omdb_api merupakan aplikasi web yang menampilkan data film yang terupdate menggunakan open api/public api yang disediakan oleh omdb.
+
 - Learn Web CSS Framework : CSSDasarBootstrap, CSSDasarSlicing
+
+Aplikasi yang dibuat ketika mulai mempelajari framework CSS yaitu Bootstrap
